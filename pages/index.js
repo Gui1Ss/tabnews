@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>lorem</h1>
+    return <h1>commit</h1>
 }
 
-export default Home;
+export default Home
